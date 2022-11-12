@@ -1,0 +1,68 @@
+body{
+    background-image: linear-gradient(to right, #d6274a, #425ff1);
+    padding: 50px 50px 30px 40px;
+}
+.main,image{
+    
+    margin: auto;
+    width: 447px;
+    height: 490px;
+    border: thick double #0f0404;
+    padding: 0px 0px 10px 0px;
+    position:relative;
+    box-shadow: 15px 20px 23px rgb(46, 69, 112);    
+    left: 350px;
+    border-radius: 50px;
+    font-size: medium;
+    margin: 10px;
+    font-family:cursive;
+    font-size:large;
+    color: rgb(13, 19, 22);
+    border: 2px solid transparent ;
+}
+.button1{
+    background: rgb(9,12,4);
+    background: linear-gradient(128deg, rgb(27, 34, 17) 0%, rgb(19, 37, 48) 59%);
+    color: white;
+    padding: 11px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 7px;
+    
+}
+
+.banner{
+    width: 450px;
+    height: 200px;
+    border-radius: 50px 50px 2px 2px; 
+    
+}
+
+hr{
+    background-color: rgb(27, 27, 27);
+}
+input{
+    background-color: rgb(157, 45, 185);
+    height: 5mm;
+    border-radius: 20px;
+    margin-left: 30px;
+    
+}
+
+.lady{
+    position:absolute;
+    left:15px;
+    top: 10px;
+}
+#username{
+     background-color:#dddddd;
+padding: #712cca;
+padding:0.7em;
+border:2px solid transparent;
+}
+#pwd{
+    background-color:#eef0ee;
+padding: #712cca;
+padding:0.7em;
+border:2px solid transparent;
+}
